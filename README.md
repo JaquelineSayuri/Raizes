@@ -5,4 +5,6 @@ In the first version, programmed in C, there are no functions and the code got r
 
 Now, there's a new version coded in Python that reduced even more its size.
 
-PS: To make my life easier, let's assume that the user is great.
+To make my life easier, let's assume that the user is great.
+
+I'd like to thank Mestre Chunin for all the help and support.
